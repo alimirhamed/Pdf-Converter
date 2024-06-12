@@ -15,3 +15,16 @@ This project provides a Python-based graphical user interface (GUI) tool for con
 ```bash
 git clone https://github.com/alimirhamed/Pdf-Converter.git
 cd Pdf-Converter
+```
+
+## Install Dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Run the Application:
+:
+```bash
+python main.py
+
+```
