@@ -21,7 +21,9 @@ cd Pdf-Converter
 ```bash
 pip install -r requirements.txt
 ```
-### Also need <a href="https://github.com/oschwartz10612/poppler-windows/releases/download/v24.02.0-0/Release-24.02.0-0.zip">poppler<a> to install in your system
+### Also need <a href="https://github.com/oschwartz10612/poppler-windows/releases/download/v24.02.0-0/Release-24.02.0-0.zip">poppler<a> to Download in your system
+go on:
+### edit the system environment variables >advaanced >environment variables >system variables >path and paste C:\poppler-24.02.0\Library\bin
 
 ## Run the Application:
 ```bash
