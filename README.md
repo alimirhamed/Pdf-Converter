@@ -21,10 +21,17 @@ cd Pdf-Converter
 ```bash
 pip install -r requirements.txt
 ```
+### Also need <a href="https://github.com/oschwartz10612/poppler-windows/releases/download/v24.02.0-0/Release-24.02.0-0.zip">poppler<a> to install in your system
 
 ## Run the Application:
-:
 ```bash
 python main.py
-
 ```
+
+## Usage Instructions:
+- **Click on the "Browse" button next to "PDF File Path" to select the PDF file.
+- **Click on the "Browse" button next to "Save Directory" to choose where to save the converted Word file.
+- **Click on the "Convert" button to start the conversion process. The progress bar will indicate the status.
+- **Click on the "Cancel" button to abort ongoing conversions if needed.
+- **Upon successful conversion, a message box will inform you of the completion and the location of the converted Word file.
+
